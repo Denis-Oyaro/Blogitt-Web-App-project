@@ -1,0 +1,4 @@
+include blogitt/schema.sql
+graft blogitt/static
+graft blogitt/templates
+global-exclude *.pyc
